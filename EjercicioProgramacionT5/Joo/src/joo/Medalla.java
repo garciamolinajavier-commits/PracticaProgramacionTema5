@@ -11,6 +11,6 @@ package joo;
  */
 public class Medalla {
     private String tipoMedalla;
-    private int contador; //*******
+    private static int contador; //*******
     
 }
